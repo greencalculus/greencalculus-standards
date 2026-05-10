@@ -44,6 +44,14 @@ This list will be populated as each calculator's mapping is verified.
 - [GHG Protocol Corporate Standard — official page](https://ghgprotocol.org/corporate-standard)
 - [GHG Protocol Scope 2 Guidance](https://ghgprotocol.org/scope-2-guidance)
 
+## Canonical GreenCalculus reference
+
+The fully-styled, version-tracked, schema-marked-up reference page for this standard lives at:
+
+**[greencalculus.com/standards/ghg-protocol-corporate-standard/](https://greencalculus.com/standards/ghg-protocol-corporate-standard/)**
+
+That page is the canonical citation target for this standard mapping. This GitHub document is the open-methodology mirror, distributed under CC-BY-4.0 for verification and reuse.
+
 ## Citation
 
 > World Resources Institute and World Business Council for Sustainable Development (2026). *The Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard, Revised Edition.* WRI/WBCSD.
