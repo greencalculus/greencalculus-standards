@@ -47,7 +47,7 @@ Status legend:
 
 | Standard | Status | GitHub doc | Live page |
 |---|---|---|---|
-| CSRD / ESRS E1 — Climate change | Live-only | doc pending | [live →](https://greencalculus.com/standards/csrd-esrs-e1/) |
+| CSRD / ESRS E1 — Climate change | Mapped | [doc](./eu/csrd-esrs-e1.md) | [live →](https://greencalculus.com/standards/csrd-esrs-e1/) |
 | TCFD Recommendations | Live-only | doc pending | [live →](https://greencalculus.com/standards/tcfd-recommendations/) |
 | IFRS S2 — Climate-related disclosures | Monitored | — | — |
 | US SEC Climate Disclosure Rules | Monitored | — | — |
