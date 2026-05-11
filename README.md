@@ -30,7 +30,7 @@ Each row links to the GitHub mapping document and the live reference page on gre
 | Layer | Standard | Operative version | Live reference |
 |---|---|---|---|
 | Calculation | [GHG Protocol Corporate Standard](./ghg-protocol/corporate-standard.md) | 2026 revision | [Live page →](https://greencalculus.com/standards/ghg-protocol-corporate-standard/) |
-| Calculation | [GHG Protocol Scope 3 Standard](./ghg-protocol/scope-3-standard.md) | 2011 (revisions in progress) | [Live page →](https://greencalculus.com/standards/ghg-protocol-scope-3-standard/) |
+| Calculation | [GHG Protocol Scope 3 Standard](./ghg-protocol/scope-3-standard.md) | 2011 — Phase 1 revision Mar 2026 (draft); final ~2027 | [Live page →](https://greencalculus.com/standards/ghg-protocol-scope-3-standard/) |
 | Calculation | [GHG Protocol Land Sector & Removals](./ghg-protocol/land-sector-removals-2026.md) | v1.0 — 30 Jan 2026 (effective 1 Jan 2027) | Live page pending |
 | Science | [IPCC AR6 — 100-year GWPs](./ipcc/ar6-gwp-100.md) | AR6 (2021) | [Live page →](https://greencalculus.com/standards/ipcc-ar6/) |
 | Verification | [ISO 14064-1](./iso/iso-14064-1.md) | 2018 revision | [Live page →](https://greencalculus.com/standards/iso-14064-1/) |
