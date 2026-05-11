@@ -12,7 +12,7 @@
 [![ISO 14067](https://img.shields.io/badge/ISO-14067_PCF-1D3215?style=flat-square)](https://greencalculus.com/standards/iso-14067-product-carbon-footprint/)
 [![ISO 14040/44](https://img.shields.io/badge/ISO-14040%2F44_LCA-1D3215?style=flat-square)](https://greencalculus.com/standards/iso-14040-14044-lca/)
 [![CSRD ESRS E1](https://img.shields.io/badge/CSRD-ESRS_E1-04BF62?style=flat-square)](https://greencalculus.com/standards/csrd-esrs-e1/)
-[![TCFD](https://img.shields.io/badge/TCFD-Recommendations-04BF62?style=flat-square)](https://greencalculus.com/standards/tcfd-recommendations/)
+[![TCFD](https://img.shields.io/badge/TCFD-Recommendations-04BF62?style=flat-square)](./disclosure/tcfd-recommendations.md)
 [![SBTi Net-Zero](https://img.shields.io/badge/SBTi-Net--Zero-04BF62?style=flat-square)](https://greencalculus.com/standards/sbti-corporate-net-zero-standard/)
 [![RE100](https://img.shields.io/badge/RE100-Technical_Criteria-04BF62?style=flat-square)](https://greencalculus.com/standards/re100-technical-criteria/)
 [![BS EN 15978](https://img.shields.io/badge/BS_EN-15978-1D3215?style=flat-square)](https://greencalculus.com/standards/bs-en-15978-embodied-carbon-buildings/)
@@ -65,8 +65,8 @@ Each row links to the GitHub mapping document and the live reference page on gre
 
 | Standard | Operative version | GitHub doc | Live reference |
 |---|---|---|---|
-| | CSRD / ESRS E1 — Climate change | ESRS Set 1 + Omnibus I (EU 2026/470) | [doc](./eu/csrd-esrs-e1.md) | [Live page →](https://greencalculus.com/standards/csrd-esrs-e1/) |
-| TCFD Recommendations | 2017 framework (now under ISSB / IFRS S2 stewardship) | doc pending | [Live page →](https://greencalculus.com/standards/tcfd-recommendations/) |
+| CSRD / ESRS E1 — Climate change | ESRS Set 1 + Omnibus I (EU 2026/470) | [doc](./eu/csrd-esrs-e1.md) | [Live page →](https://greencalculus.com/standards/csrd-esrs-e1/) |
+| TCFD Recommendations | 2017 framework — disbanded Oct 2023; monitoring with IFRS Foundation / ISSB | [doc](./disclosure/tcfd-recommendations.md) | [Live page →](https://greencalculus.com/standards/tcfd-recommendations/) |
 
 ### Target-setting frameworks
 
