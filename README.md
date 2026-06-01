@@ -1,4 +1,14 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/greencalculus/.github/main/profile/assets/greencalculus-logo.png" width="72" height="72" alt="GreenCalculus" />
+
 # GreenCalculus — Standards Alignment
+
+### How every calculator maps, line by line, to the standard it implements.
+
+[greencalculus.com/standards](https://greencalculus.com/standards/) · [Methodology](https://github.com/greencalculus/greencalculus-methodology) · [Live demos](https://greencalculus.github.io/greencalculus-calculator-demo/)
+
+</div>
 
 > Open methodology mapping for the global greenhouse gas accounting standards that GreenCalculus calculators implement.
 
