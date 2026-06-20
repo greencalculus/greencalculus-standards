@@ -28,4 +28,4 @@ additions from the community.
 - Every claim must reference the official standard text.
 - Be respectful and constructive.
 
-Questions? Open an issue or reach us at hello@greencalculus.com.
+Questions? Open an issue or reach us at jeremiah@greencalculus.com.
