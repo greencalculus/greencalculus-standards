@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this standards mapping, please cite it as below."
+type: dataset
+title: "GreenCalculus Standards Mapping"
+abstract: >
+  An open mapping between the global greenhouse-gas accounting standards and the
+  calculations that implement them — GHG Protocol Corporate and Scope 3, the Land
+  Sector and Removals Guidance (2026), IPCC AR6 GWP-100, ISO 14064-1, CSRD/ESRS
+  E1, SBTi near-term and net-zero, PCAF financed emissions, and the DEFRA/DESNZ
+  conversion factors. Each entry names the clause or table it implements, so a
+  reported figure can be traced to the standard that governs it.
+authors:
+  - family-names: Say
+    given-names: Jeremiah
+    affiliation: "GreenCalculus"
+date-released: "2026-06-20"
+url: "https://greencalculus.com/standards/"
+repository-code: "https://github.com/greencalculus/greencalculus-standards"
+license: CC-BY-4.0
+keywords:
+  - GHG Protocol
+  - Scope 3
+  - CSRD
+  - ESRS E1
+  - SBTi
+  - ISO 14064
+  - IPCC AR6
+  - PCAF
+  - carbon accounting
+  - standards mapping
